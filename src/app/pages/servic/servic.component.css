@@ -1,0 +1,32 @@
+/* .bar{
+    background-image: url(https://akm-img-a-in.tosshub.com/aajtak/images/story/201606/colleagues_146545247785_650x425_060916113941.jpg?size=948:533);
+} */
+
+.bar img{
+    width:1900px ;
+    
+}
+
+    
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body, html {
+    font-size: 100%;
+    overflow-x: hidden;
+    background: #fff;
+}
+.bar{
+ background-image: url(https://osumare.com/images/slide1.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ color: aliceblue;
+ font-weight: bold;
+ height: 650px;
+}

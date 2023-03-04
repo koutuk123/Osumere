@@ -1,0 +1,50 @@
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 300px;
+    margin-top: 50px;
+    color:yellow;
+    line-height: 1;
+    display:inline-block;
+     max-width: 60%;
+    
+
+}
+/* .container{ */
+/* background-image: url("https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/279813834/original/2c8466a61196cc31c6702f58ac7983f2dfa685ab/upgrade-your-website-by-writing-the-finest-content.jpg");
+background-size: cover;
+align-items: flex-end;
+/* text-align: center; */
+/* max-height: 80vh; */ 
+/* } */
+p{
+    
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    
+    justify-content: center;
+   margin :240px;
+   color: white;
+    max-width: 60%;
+   margin-top: -280px;
+}
+
+
+.btn{
+    background-color: skyblue;
+    height: 60px;
+    border-radius:20px;
+   font-weight: bold;
+   font-size: 20px;
+   /* margin-top: 10px; */
+   margin-top: -220px
+   
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: whitesmoke;
+}

@@ -1,0 +1,39 @@
+.container{
+    background-image: ("https://i0.wp.com/i.pinimg.com/originals/63/27/2a/63272a050067a90039f170c8299731ac.jpg?strip=all&smooth=-25&contrast=13&brightness=-10&quality=95&");
+}
+.bar h1{
+    text-align: center;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.wthree-row{
+    height: 550px;
+    background-image: url(https://osumare.com/images/slide3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+.row{
+    display: flex;
+    color: white;
+    
+}
+h3{
+    text-align: center;
+}
+.i{
+font-size: large;
+text-align: center;
+
+}
+h2{
+   color: whitesmoke;
+}
+
+.row img{
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 100px;
+    color: azure;
+}

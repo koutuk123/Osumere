@@ -1,0 +1,19 @@
+/* .col-lg-2 {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-blue-genetic-dna-medical-background-windbackground-display-boardbackgroundpsdcolorful-image_77077.jpg);
+} */
+.row{
+    display:flex;
+}
+.row {
+
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-blue-genetic-dna-medical-background-windbackground-display-boardbackgroundpsdcolorful-image_77077.jpg);
+}
+.fa-dot-circle:before {
+    content: "\f192";
+}
+img{
+   margin-left: 827px;
+}
+p{
+    text-align: center;
+}
